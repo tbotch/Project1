@@ -1,0 +1,29 @@
+body {
+	font-family: 'Jockey One', sans-serif;
+	color: #747704;
+	font-weight: 400;	
+}
+
+.text-muted{
+	color: #BCBBBB
+}
+
+.main-logo {
+	margin-top: 20px;
+}
+
+hr {
+	height: 5px;
+	background-color: #F8981C
+}
+
+.modal-title{
+
+	text-align: center
+}
+
+.modal-body{
+
+	text-align: center;
+}
+
